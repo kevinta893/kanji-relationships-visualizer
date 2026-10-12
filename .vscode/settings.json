@@ -1,0 +1,21 @@
+{
+	"editor.formatOnSave": true,
+	"debug.toolBarLocation": "docked",
+	"svelte.enable-ts-plugin": true,
+	"npm.packageManager": "pnpm",
+	"[svelte]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"files.associations": {
+		"*.css": "tailwindcss"
+	}
+}
